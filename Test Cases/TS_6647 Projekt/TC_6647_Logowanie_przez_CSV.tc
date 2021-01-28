@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_6647_Logowanie_przez_CSV</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b15b86d8-daad-4881-86f8-58b4c6d6959e</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>95f48238-8751-45a9-9011-c5cb1271fe89</id>
+      <masked>false</masked>
+      <name>Login</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e9a2256c-c7af-4417-bbb2-cabdf7c75dfa</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>
